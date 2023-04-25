@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">testListMap</string>
+    <string name="menu_home">home</string>
+    <string name="menu_dashboard">dashboard</string>
+    <string name="menu_notifications">notification</string>
+    <string name="code_reception">REP077</string>
+    <string name="code_location">REP080</string>
+    <string name="item_reception_references">Recepción de referencias</string>
+    <string name="item_location_references">Ubicación de referencias</string>
+</resources>
